@@ -1,0 +1,522 @@
+{
+    "1e:c0:9c:23:1d:45": {
+        "appeared": "2023-11-17 12:16:36",
+        "disappeared": "2023-11-17 12:16:46",
+        "last_appeared": null,
+        "last_seen_rssi": -82,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "32:40:9d:14:3c:b2": {
+        "appeared": "2023-11-17 12:16:36",
+        "disappeared": "2023-11-17 12:16:46",
+        "last_appeared": null,
+        "last_seen_rssi": -80,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "66:32:c0:4b:81:56": {
+        "appeared": "2023-11-17 12:16:36",
+        "disappeared": null,
+        "last_appeared": null,
+        "last_seen_rssi": -56,
+        "stay_duration": 0,
+        "name": "Nama Perangkat 1"
+    },
+    "a4:3b:0e:46:6b:b6": {
+        "appeared": "2023-11-17 12:16:36",
+        "disappeared": "2023-11-17 12:16:46",
+        "last_appeared": null,
+        "last_seen_rssi": -81,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "7b:ae:b1:6d:c1:73": {
+        "appeared": "2023-11-17 12:16:36",
+        "disappeared": "2023-11-17 12:16:46",
+        "last_appeared": null,
+        "last_seen_rssi": -69,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "4a:41:bb:dc:9d:63": {
+        "appeared": "2023-11-17 12:16:36",
+        "disappeared": "2023-11-17 12:16:46",
+        "last_appeared": null,
+        "last_seen_rssi": -76,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "7b:05:a0:a9:4f:5e": {
+        "appeared": "2023-11-17 12:16:56",
+        "disappeared": null,
+        "last_appeared": null,
+        "last_seen_rssi": -100,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "63:2e:71:0a:c3:7a": {
+        "appeared": "2023-11-17 12:17:36",
+        "disappeared": "2023-11-17 12:19:27",
+        "last_appeared": null,
+        "last_seen_rssi": -67,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "e6:65:d1:f1:cf:66": {
+        "appeared": "2023-11-17 12:18:17",
+        "disappeared": null,
+        "last_appeared": null,
+        "last_seen_rssi": -94,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "71:99:85:60:eb:ad": {
+        "appeared": "2023-11-17 12:20:27",
+        "disappeared": null,
+        "last_appeared": null,
+        "last_seen_rssi": -99,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "7b:bf:ca:8a:47:06": {
+        "appeared": "2023-11-17 12:21:07",
+        "disappeared": "2023-11-17 12:27:24",
+        "last_appeared": null,
+        "last_seen_rssi": -86,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "5a:25:2e:d0:7b:a9": {
+        "appeared": "2023-11-17 12:21:19",
+        "disappeared": "2023-11-17 12:21:39",
+        "last_appeared": null,
+        "last_seen_rssi": -99,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "20:20:63:59:5b:ad": {
+        "appeared": "2023-11-17 12:21:59",
+        "disappeared": "2023-11-17 12:22:09",
+        "last_appeared": null,
+        "last_seen_rssi": -85,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "34:b9:cd:21:da:78": {
+        "appeared": "2023-11-17 12:23:19",
+        "disappeared": "2023-11-17 12:23:29",
+        "last_appeared": null,
+        "last_seen_rssi": -82,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "77:16:e5:a1:58:bc": {
+        "appeared": "2023-11-17 12:27:44",
+        "disappeared": null,
+        "last_appeared": null,
+        "last_seen_rssi": -93,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "76:e8:36:9e:76:a4": {
+        "appeared": "2023-11-17 12:28:53",
+        "disappeared": "2023-11-17 12:29:03",
+        "last_appeared": null,
+        "last_seen_rssi": -78,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "54:a6:cb:5c:89:5a": {
+        "appeared": "2023-11-17 12:29:58",
+        "disappeared": "2023-11-17 12:30:38",
+        "last_appeared": null,
+        "last_seen_rssi": -97,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "d1:53:41:f6:b1:6a": {
+        "appeared": "2023-11-17 12:30:08",
+        "disappeared": null,
+        "last_appeared": null,
+        "last_seen_rssi": -86,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "56:b1:f1:f3:3b:36": {
+        "appeared": "2023-11-17 12:30:08",
+        "disappeared": null,
+        "last_appeared": null,
+        "last_seen_rssi": -95,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "90:98:38:f7:74:19": {
+        "appeared": "2023-11-17 12:30:18",
+        "disappeared": "2023-11-17 12:30:28",
+        "last_appeared": null,
+        "last_seen_rssi": -83,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "1e:3a:4e:a9:b4:e0": {
+        "appeared": "2023-11-17 12:30:59",
+        "disappeared": "2023-11-17 12:31:09",
+        "last_appeared": null,
+        "last_seen_rssi": -65,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "e7:f8:31:6d:b9:fe": {
+        "appeared": "2023-11-17 12:31:09",
+        "disappeared": null,
+        "last_appeared": null,
+        "last_seen_rssi": -85,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "1d:33:54:a5:ba:c2": {
+        "appeared": "2023-11-17 12:31:59",
+        "disappeared": "2023-11-17 12:32:09",
+        "last_appeared": null,
+        "last_seen_rssi": -77,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "65:74:c9:84:05:5b": {
+        "appeared": "2023-11-17 12:32:29",
+        "disappeared": "2023-11-17 12:32:39",
+        "last_appeared": null,
+        "last_seen_rssi": -98,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "73:b8:88:71:9c:71": {
+        "appeared": "2023-11-17 12:32:49",
+        "disappeared": "2023-11-17 12:32:59",
+        "last_appeared": null,
+        "last_seen_rssi": -53,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "6f:89:81:c8:8e:1f": {
+        "appeared": "2023-11-17 12:33:19",
+        "disappeared": "2023-11-17 12:33:35",
+        "last_appeared": null,
+        "last_seen_rssi": -76,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "da:c0:d7:d1:73:04": {
+        "appeared": "2023-11-17 12:33:35",
+        "disappeared": null,
+        "last_appeared": null,
+        "last_seen_rssi": -95,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "e8:e6:fc:47:31:4b": {
+        "appeared": "2023-11-17 12:35:19",
+        "disappeared": null,
+        "last_appeared": null,
+        "last_seen_rssi": -99,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "0e:3f:3a:8c:17:7f": {
+        "appeared": "2023-11-17 12:36:50",
+        "disappeared": "2023-11-17 12:37:00",
+        "last_appeared": null,
+        "last_seen_rssi": -87,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "3f:58:04:a1:49:4a": {
+        "appeared": "2023-11-17 12:37:50",
+        "disappeared": null,
+        "last_appeared": null,
+        "last_seen_rssi": -97,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "7f:57:6e:87:60:0c": {
+        "appeared": "2023-11-17 12:39:21",
+        "disappeared": "2023-11-17 12:39:41",
+        "last_appeared": null,
+        "last_seen_rssi": -96,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "59:5d:16:05:aa:20": {
+        "appeared": "2023-11-17 12:39:21",
+        "disappeared": "2023-11-17 12:39:31",
+        "last_appeared": null,
+        "last_seen_rssi": -91,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "ce:94:49:8b:ce:f5": {
+        "appeared": "2023-11-17 12:39:41",
+        "disappeared": "2023-11-17 12:39:51",
+        "last_appeared": null,
+        "last_seen_rssi": -93,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "f6:54:85:8b:ed:b7": {
+        "appeared": "2023-11-17 12:39:41",
+        "disappeared": "2023-11-17 12:39:51",
+        "last_appeared": null,
+        "last_seen_rssi": -82,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "57:9a:f1:62:55:cf": {
+        "appeared": "2023-11-17 12:39:41",
+        "disappeared": "2023-11-17 12:39:51",
+        "last_appeared": null,
+        "last_seen_rssi": -93,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "4d:df:29:5d:52:94": {
+        "appeared": "2023-11-17 12:39:41",
+        "disappeared": "2023-11-17 12:39:51",
+        "last_appeared": null,
+        "last_seen_rssi": -93,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "43:46:ec:cc:d9:69": {
+        "appeared": "2023-11-17 12:39:41",
+        "disappeared": "2023-11-17 12:39:51",
+        "last_appeared": null,
+        "last_seen_rssi": -87,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "62:cf:18:ac:89:22": {
+        "appeared": "2023-11-17 12:39:51",
+        "disappeared": "2023-11-17 12:41:32",
+        "last_appeared": null,
+        "last_seen_rssi": -103,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "7b:83:3c:e4:34:33": {
+        "appeared": "2023-11-17 12:41:52",
+        "disappeared": "2023-11-17 12:42:02",
+        "last_appeared": null,
+        "last_seen_rssi": -95,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "50:63:2a:9c:e8:5f": {
+        "appeared": "2023-11-17 12:41:52",
+        "disappeared": "2023-11-17 12:42:02",
+        "last_appeared": null,
+        "last_seen_rssi": -82,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "5d:6f:6a:58:21:9c": {
+        "appeared": "2023-11-17 12:42:46",
+        "disappeared": "2023-11-17 12:51:21",
+        "last_appeared": null,
+        "last_seen_rssi": -85,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "55:c2:b4:21:ec:36": {
+        "appeared": "2023-11-17 12:42:46",
+        "disappeared": "2023-11-17 12:43:07",
+        "last_appeared": null,
+        "last_seen_rssi": -57,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "67:30:eb:da:8e:6b": {
+        "appeared": "2023-11-17 12:43:17",
+        "disappeared": "2023-11-17 12:43:27",
+        "last_appeared": null,
+        "last_seen_rssi": -98,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "73:52:44:13:fb:bc": {
+        "appeared": "2023-11-17 12:43:27",
+        "disappeared": "2023-11-17 12:43:37",
+        "last_appeared": null,
+        "last_seen_rssi": -79,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "44:eb:11:ff:d7:00": {
+        "appeared": "2023-11-17 12:43:57",
+        "disappeared": "2023-11-17 12:44:08",
+        "last_appeared": null,
+        "last_seen_rssi": -92,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "5c:94:9e:24:13:49": {
+        "appeared": "2023-11-17 12:47:57",
+        "disappeared": "2023-11-17 12:48:07",
+        "last_appeared": null,
+        "last_seen_rssi": -98,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "dc:4b:26:8f:b4:f1": {
+        "appeared": "2023-11-17 12:48:07",
+        "disappeared": "2023-11-17 12:48:27",
+        "last_appeared": null,
+        "last_seen_rssi": -95,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "5e:38:ac:2a:a2:e8": {
+        "appeared": "2023-11-17 12:48:17",
+        "disappeared": "2023-11-17 12:48:27",
+        "last_appeared": null,
+        "last_seen_rssi": -63,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "41:a6:0d:87:b4:1d": {
+        "appeared": "2023-11-17 12:48:37",
+        "disappeared": "2023-11-17 12:48:57",
+        "last_appeared": null,
+        "last_seen_rssi": -94,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "6d:35:e4:2a:d5:63": {
+        "appeared": "2023-11-17 12:48:47",
+        "disappeared": "2023-11-17 12:48:57",
+        "last_appeared": null,
+        "last_seen_rssi": -86,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "46:e9:6d:c1:3e:e4": {
+        "appeared": "2023-11-17 12:48:57",
+        "disappeared": "2023-11-17 12:49:07",
+        "last_appeared": null,
+        "last_seen_rssi": -86,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "fe:bb:3a:d8:63:ed": {
+        "appeared": "2023-11-17 12:49:07",
+        "disappeared": "2023-11-17 12:50:10",
+        "last_appeared": null,
+        "last_seen_rssi": -96,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "61:37:81:6f:bb:06": {
+        "appeared": "2023-11-17 12:50:00",
+        "disappeared": null,
+        "last_appeared": null,
+        "last_seen_rssi": -91,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "27:c5:a1:64:ae:59": {
+        "appeared": "2023-11-17 12:50:40",
+        "disappeared": "2023-11-17 12:50:50",
+        "last_appeared": null,
+        "last_seen_rssi": -81,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "1d:51:98:ab:35:c3": {
+        "appeared": "2023-11-17 12:51:00",
+        "disappeared": "2023-11-17 12:51:10",
+        "last_appeared": null,
+        "last_seen_rssi": -78,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "4a:31:2a:3a:58:4d": {
+        "appeared": "2023-11-17 12:51:51",
+        "disappeared": "2023-11-17 12:52:01",
+        "last_appeared": null,
+        "last_seen_rssi": -80,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "df:63:7c:f5:3e:4a": {
+        "appeared": "2023-11-17 12:52:41",
+        "disappeared": null,
+        "last_appeared": null,
+        "last_seen_rssi": -91,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "7d:2e:60:d2:92:2e": {
+        "appeared": "2023-11-17 12:52:41",
+        "disappeared": "2023-11-17 12:52:51",
+        "last_appeared": null,
+        "last_seen_rssi": -93,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "40:a5:87:54:ea:cb": {
+        "appeared": "2023-11-17 12:54:01",
+        "disappeared": "2023-11-17 12:54:21",
+        "last_appeared": null,
+        "last_seen_rssi": -95,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "4f:ba:1f:9c:d3:63": {
+        "appeared": "2023-11-17 12:54:21",
+        "disappeared": null,
+        "last_appeared": null,
+        "last_seen_rssi": -99,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "d7:dc:63:91:9e:11": {
+        "appeared": "2023-11-17 12:55:22",
+        "disappeared": null,
+        "last_appeared": null,
+        "last_seen_rssi": -91,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "fb:3e:63:f3:3b:4f": {
+        "appeared": "2023-11-17 12:56:32",
+        "disappeared": null,
+        "last_appeared": null,
+        "last_seen_rssi": -92,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "75:77:37:1c:05:34": {
+        "appeared": "2023-11-17 12:56:52",
+        "disappeared": "2023-11-17 12:58:13",
+        "last_appeared": null,
+        "last_seen_rssi": -97,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "c0:21:4c:98:27:79": {
+        "appeared": "2023-11-17 12:58:33",
+        "disappeared": null,
+        "last_appeared": null,
+        "last_seen_rssi": -91,
+        "stay_duration": 0,
+        "name": "Unknown"
+    },
+    "7d:65:e2:20:5f:df": {
+        "appeared": "2023-11-17 12:58:33",
+        "disappeared": "2023-11-17 12:58:43",
+        "last_appeared": null,
+        "last_seen_rssi": -81,
+        "stay_duration": 0,
+        "name": "Unknown"
+    }
+}

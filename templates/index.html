@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Device Planets</title>
+<style>
+    .sun {
+        position: relative;
+        width: 200px;
+        height: 200px;
+        background-color: yellow;
+        border-radius: 50%;
+        margin: 190px auto;
+        animation: rotateSun 20s linear infinite;
+    }
+
+    .planet {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        background-color: blue;
+        border-radius: 50%;
+        animation: rotatePlanet 10s linear infinite, movePlanet 20s linear infinite;
+    }
+
+    @keyframes rotateSun {
+        from {
+            transform: rotate(0);
+        }
+        to {
+            transform: rotate(360deg);
+        }
+    }
+
+    @keyframes rotatePlanet {
+        from {
+            transform: rotate(0);
+        }
+        to {
+            transform: rotate(360deg);
+        }
+    }
+
+    @keyframes movePlanet {
+        from {
+            transform: translate(0, -50%);
+        }
+        to {
+            transform: translate(100px, -50%) rotate(360deg);
+        }
+    }
+
+    .device-info {
+        display: none;
+        position: absolute;
+        top: -30px;
+        left: 20px;
+        background-color: white;
+        border-radius: 5px;
+        padding: 5px;
+    }
+
+    .planet:hover .device-info {
+        display: block;
+    }
+
+</style>
+</head>
+<body>
+    <div class="sun"></div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.3.2/socket.io.js"></script>
+
+<script>
+    const socket = io('http://172.16.17.1:5000');
+
+    socket.on('initial_data', (data) => {
+        renderDevicePlanets(data.devices);
+    });
+
+    socket.on('update', (data) => {
+        const sun = document.querySelector('.sun');
+        sun.innerHTML = '';
+        renderDevicePlanets(data.devices);
+    });
+
+    function renderDevicePlanets(devices) {
+        const sun = document.querySelector('.sun');
+        sun.innerHTML = '';
+
+        for (const device in devices) {
+            if (Object.hasOwnProperty.call(devices, device)) {
+                const planet = document.createElement('div');
+                planet.className = 'planet';
+//                planet.style.top = `${Math.random() * 260}%`;
+//                planet.style.left = `${Math.random() * 260}%`;
+                planet.style.top = `${Math.random() * 300}%`;
+                planet.style.left = `${Math.random() * 300}%`;
+
+                const deviceInfo = document.createElement('div');
+                deviceInfo.className = 'device-info';
+                deviceInfo.innerHTML = `
+                    <p>${device}</p>
+                    <p>Appeared: ${devices[device].appeared}</p>
+                    <p>Disappeared: ${devices[device].disappeared}</p>
+                    <p>Last Seen RSSI: ${devices[device].last_seen_rssi}</p>
+                    <p>Stay Duration: ${devices[device].stay_duration}</p>
+                    <p>Name: ${devices[device].name}</p>
+                `;
+
+                planet.appendChild(deviceInfo);
+                sun.appendChild(planet);
+            }
+        }
+    }
+</script>
+
+
+</body>
+</html>
